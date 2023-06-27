@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545729975739",
+    "firebase_url": "https://vacancy-matcher-3musketeers-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "vacancy-matcher-3musketeers",
+    "storage_bucket": "vacancy-matcher-3musketeers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545729975739:android:67574fab66f00174a2209e",
+        "android_client_info": {
+          "package_name": "com.zenovanleemput.vacancymatcherappreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545729975739-nl2tjq7isdnistc830qfvl1num7vkvhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdc8kD_R252jRpwhBF4zzk5FIqICqrSvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545729975739-3kae7umfatpc0uaca5umik04bjg70epo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
